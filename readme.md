@@ -28,7 +28,7 @@ Nesta imersão, o foco vai além da escrita tradicional de código: aprendemos a
 Aplicação de terminal desenvolvida com o apoio do Google AI Studio para explorar a sintaxe da linguagem Python e a anatomia de um software.
 
 ### 🧠 Principais Aprendizados:
-- **Engenharia de Prompt:** Uso do Google AI Studio e Antigravity para guiar a IA na geração de código limpo, didático e modular.
+- **Engenharia de Prompt:** Uso do Google AI Studio para guiar a IA na geração de código limpo, didático e modular.
 - **Funções (`def`):** Modularização de cada operação aritmética básica (+, -, *, /).
 - **Tipagem e Conversão (`float`):** Conversão de dados capturados via terminal (texto) em números decimais para cálculos.
 - **Estruturas Condicionais (`if / elif / else`):** Lógica de tomada de decisão para direcionar a operação escolhida pelo usuário.
