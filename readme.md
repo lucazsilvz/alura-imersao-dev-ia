@@ -13,5 +13,3 @@
 ## 📌 Sobre o Projeto
 
 O objetivo deste projeto foi ir além de apenas codificar: foi exercitar o papel do desenvolvedor moderno utilizando a **Inteligência Artificial (Google AI Studio)** como copiloto de engenharia de software para gerar a solução, dissecar a lógica de programação e entender na prática o funcionamento das instruções, variáveis e tomadas de decisão.
-
---
