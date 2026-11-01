@@ -25,7 +25,7 @@ Nesta imersão, o foco vai além da escrita tradicional de código: aprendemos a
 
 ## 🧮 Detalhes do Desafio 01: Calculadora CLI em Python
 
-Aplicação de terminal desenvolvida com o apoio do Google AI Studio e do Antigravity para explorar a sintaxe da linguagem Python e a anatomia de um software.
+Aplicação de terminal desenvolvida com o apoio do Google AI Studio para explorar a sintaxe da linguagem Python e a anatomia de um software.
 
 ### 🧠 Principais Aprendizados:
 - **Engenharia de Prompt:** Uso do Google AI Studio e Antigravity para guiar a IA na geração de código limpo, didático e modular.
