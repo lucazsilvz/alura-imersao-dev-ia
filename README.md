@@ -17,7 +17,7 @@ Nesta imersão, o foco vai além da escrita tradicional de código: aprendemos a
 
 | Desafio | Projeto | Ferramentas & Tecnologias | Status |
 |:---:|:---|:---:|:---:|
-| **01** | [Calculadora CLI em Python](./01-calculadora-python) | Python, Google AI Studio, Antigravity | Concluído ✅ |
+|**01** | [Calculadora CLI em Python](./01-calculadora-python) | Python, Google AI Studio, Antigravity | Concluído ✅ |
 | **02** | *Em breve...* | - | ⏳ Em andamento |
 | **03** | *Em breve...* | - | ⏳ Pendente |
 
