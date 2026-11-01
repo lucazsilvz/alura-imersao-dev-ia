@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Tarefas | Desafio 3 - Google Antigravity</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main class="app-container">
+        <header class="app-header">
+            <h1>📋 Minhas Tarefas</h1>
+            <p class="subtitulo">Desafio 3 - Imersão Dev com Google Antigravity</p>
+        </header>
+
+        <!-- Formulário para adicionar nova tarefa -->
+        <form id="formTarefa" class="form-tarefa">
+            <input 
+                type="text" 
+                id="inputTarefa" 
+                placeholder="Qual atividade você precisa fazer?" 
+                autocomplete="off"
+                required
+            />
+            <button type="submit" class="btn-adicionar">Adicionar</button>
+        </form>
+
+        <!-- Barra com contador de tarefas concluídas -->
+        <div class="status-bar">
+            <span>Progresso:</span>
+            <span id="contadorTarefas">0 de 0 concluída(s)</span>
+        </div>
+
+        <!-- Lista onde as tarefas são inseridas dinamicamente -->
+        <ul id="listaTarefas" class="lista-tarefas" aria-live="polite">
+            <!-- Os itens serão gerados pelo app.js -->
+        </ul>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
