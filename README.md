@@ -1,11 +1,21 @@
 # 🚀 Imersão Dev: Engenharia de Software na Era da IA - Alura
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Google%20AI%20Studio-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio" />
-  <img src="https://img.shields.io/badge/Antigravity-IA%20Workspace-black?style=for-the-badge" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Alura-Imersão%20Dev%20IA-blueviolet?style=for-the-badge" alt="Alura" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://aistudio.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20AI%20Studio-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio" />
+  </a>
+  <a href="https://antigravity.google/" target="_blank">
+    <img src="https://img.shields.io/badge/Antigravity-IA%20Workspace-black?style=for-the-badge" alt="Antigravity" />
+  </a>
+  <a href="https://www.alura.com.br/" target="_blank">
+    <img src="https://img.shields.io/badge/Alura-Imersão%20Dev%20IA-blueviolet?style=for-the-badge" alt="Alura" />
+  </a>
 </p>
 
 Repositório criado para registrar toda a jornada, códigos e projetos desenvolvidos durante a **Imersão Dev: Engenharia de Software na Era da IA** promovida pela [Alura].
