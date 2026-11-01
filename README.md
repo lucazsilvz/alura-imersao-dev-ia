@@ -18,7 +18,7 @@ Nesta imersão, o foco vai além da escrita tradicional de código: aprendemos a
 | Desafio | Projeto | Ferramentas & Tecnologias | Status |
 |:---:|:---|:---:|:---:|
 |**01** | [Calculadora CLI em Python](./01-calculadora-python) | Python, Google AI Studio, Antigravity | Concluído ✅ |
-| **02** | *Em breve...* | - | ⏳ Em andamento |
+| **02** | [Calculadora Evoluída com Porcentagem e Testes](./02-calculadora-python-evoluida) | Python, Google Antigravity, Unittest | Concluído ✅ |
 | **03** | *Em breve...* | - | ⏳ Pendente |
 
 ---
@@ -33,3 +33,15 @@ Aplicação de terminal desenvolvida com o apoio do Google AI Studio para explor
 - **Tipagem e Conversão (`float`):** Conversão de dados capturados via terminal (texto) em números decimais para cálculos.
 - **Estruturas Condicionais (`if / elif / else`):** Lógica de tomada de decisão para direcionar a operação escolhida pelo usuário.
 - **Programação Defensiva:** Prevenção contra divisões por zero (`ZeroDivisionError`).
+
+---
+
+## ⚡ Detalhes do Desafio 02: Evoluindo sua Aplicação com Google Antigravity
+
+Evolução do código da calculadora explorando o ciclo completo de Engenharia de Software no Google Antigravity: compreensão de código legado, adição de novas funcionalidades e validação contínua através de testes automatizados.
+
+### 🧠 Principais Aprendizados:
+- **Exploração e Análise de Código:** Leitura e compreensão da estrutura de um projeto existente com assistência do Antigravity.
+- **Evolução de Funcionalidades:** Implementação da operação de porcentagem (`%`) mantendo a integridade das funções anteriores.
+- **Testes Unitários Automatizados (`unittest`):** Criação de testes para verificar assertivamente que nenhuma operação existente quebrou (prevenção de regressão).
+- **Refatoração & Usabilidade:** Implementação de laço contínuo com menu interativo e tratamento de exceções robusto.
