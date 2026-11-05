@@ -18,7 +18,7 @@
   </a>
 </p>
 
-Repositório criado para registrar toda a jornada, códigos e projetos desenvolvidos durante a **Imersão Dev: Engenharia de Software na Era da IA** promovida pela [Alura].
+Repositório criado para registrar toda a jornada, códigos e projetos desenvolvidos durante a **Imersão Dev: Engenharia de Software na Era da IA** promovida pela [Alura](https://www.alura.com.br/) em parceria com o **Google**.
 
 Nesta imersão, o foco vai além da escrita tradicional de código: aprendemos a atuar como **Engenheiros de Software aumentados por IA**, utilizando o ecossistema do **Google AI Studio** e da plataforma **Antigravity** como copilotos para ideação, arquitetura, geração de código e resolução de problemas.
 
@@ -28,7 +28,7 @@ Nesta imersão, o foco vai além da escrita tradicional de código: aprendemos a
 
 | Desafio | Projeto | Ferramentas & Tecnologias | Status |
 |:---:|:---|:---:|:---:|
-|**01** | [Calculadora CLI em Python](./01-calculadora-python) | Python, Google AI Studio, Antigravity | Concluído ✅ |
+| **01** | [Calculadora CLI em Python](./01-calculadora-python) | Python, Google AI Studio, Antigravity | Concluído ✅ |
 | **02** | [Calculadora Evoluída com Porcentagem e Testes](./02-calculadora-python-evoluida) | Python, Google Antigravity, Unittest | Concluído ✅ |
 | **03** | [Lista de Tarefas (To-Do List) com Interface Visual](./03-lista-de-tarefas) | HTML5, CSS3, JavaScript, Node.js Test | Concluído ✅ |
 
@@ -69,3 +69,61 @@ Desenvolvimento do zero de uma aplicação de gerenciamento de tarefas (*To-Do L
 - **Diferenciação Visual:** Estilização dedicada para tarefas concluídas (texto tachado, cor atenuada, badge verde e transições suaves).
 - **Persistência de Dados:** Armazenamento local no navegador via `LocalStorage`.
 - **Testes Unitários:** Validação automatizada de regras de negócio com o test runner do Node.js.
+
+---
+
+## 💻 Como Executar os Desafios Localmente
+
+### Pré-requisitos
+- [Python 3.10+](https://www.python.org/)
+- [Node.js 18+](https://nodejs.org/) (opcional, para executar os testes da Lista de Tarefas)
+
+### 🧮 Desafio 01 — Calculadora CLI
+```bash
+cd 01-calculadora-python
+python calculadora.py
+```
+
+### ⚡ Desafio 02 — Calculadora Evoluída com Testes
+```bash
+cd 02-calculadora-python-evoluida
+python calculadora.py
+
+# Para executar a suíte de testes automatizados:
+python -m unittest test_calculadora.py -v
+```
+
+### 📝 Desafio 03 — Lista de Tarefas (To-Do List)
+```bash
+cd 03-lista-de-tarefas
+
+# Para abrir a aplicação no navegador:
+# Windows:
+start index.html
+
+# Para executar a suíte de testes automatizados (Node.js):
+node --test app.test.js
+```
+
+---
+
+## 👤 Autor
+
+<p align="left">
+  Desenvolvido por <strong>Lucas Anacleto</strong> 👋<br><br>
+  <a href="https://www.linkedin.com/in/lucas-anacleto20" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/lucazsilvz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://lucazsilvz.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-Acessar-6c63ff?style=for-the-badge" alt="Portfólio" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <sub>Projeto realizado durante a Imersão Dev IA da <strong>Alura</strong> em parceria com a <strong>Google</strong>.</sub>
+</div>
