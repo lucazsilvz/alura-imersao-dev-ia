@@ -117,7 +117,7 @@ node --test app.test.js
   <a href="https://github.com/lucazsilvz" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://lucazsilvz.github.io/portfolio/" target="_blank">
+  <a href="https://lucazsilvz.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-Acessar-6c63ff?style=for-the-badge" alt="Portfólio" />
   </a>
 </p>
